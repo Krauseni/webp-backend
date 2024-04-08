@@ -1,0 +1,37 @@
+[
+  {
+    "class": "01",
+    "membership": "Erwachsene über 18 Jahre",
+    "price": 330
+  },
+  {
+    "class": "02",
+    "membership": "Jugendliche unter 18 Jahren",
+    "price": 100
+  },
+  {
+    "class": "03",
+    "membership": "Azubis/Studenten",
+    "price": 220
+  },
+  {
+    "class": "04",
+    "membership": "Passive Mitglieder",
+    "price": 77
+  },
+  {
+    "class": "05",
+    "membership": "Ehrenmitglieder",
+    "price": 0
+  },
+  {
+    "class": "06",
+    "membership": "Vorstandsmitglieder",
+    "price": 242
+  },
+  {
+    "class": "07",
+    "membership": "Mannschaftsführer/Revisionsausschuss",
+    "price": 270
+  }
+]

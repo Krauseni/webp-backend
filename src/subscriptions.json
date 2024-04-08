@@ -1,0 +1,44 @@
+[
+    {
+        "court": "Platz 1",
+        "price": 150,
+        "10to12": true,
+        "12to14": true,
+        "14to16": true
+    },
+    {
+        "court": "Platz 2",
+        "price": 150,
+        "10to12": false,
+        "12to14": true,
+        "14to16": true
+    },
+    {
+        "court": "Platz 3",
+        "price": 150,
+        "10to12": true,
+        "12to14": true,
+        "14to16": true
+      },
+      {
+        "court": "Platz 4",
+        "price": 150,
+        "10to12": false,
+        "12to14": true,
+        "14to16": true
+      },
+      {
+        "court": "Halle 1",
+        "price": 70,
+        "10to12": false,
+        "12to14": false,
+        "14to16": true
+      },
+      {
+        "court": "Halle 2",
+        "price": 70,
+        "10to12": false,
+        "12to14": false,
+        "14to16": true
+      }
+]
