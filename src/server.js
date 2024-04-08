@@ -8,14 +8,14 @@ const fs = require("fs");
 app.use(express.json());
 app.use(cors());
 
-app.get('/prices', (req, res) => {
+app.get('/prices', (req, res) => { //Lade Mitgliedschaftspreise
   res.type('application/json');
   fs.readFile(__dirname + '/prices.json', 'utf8', (err, data) => {
     res.send(data);
   });
 });
 
-app.get('/booking', (req, res) => {
+app.get('/booking', (req, res) => { //Lade Platz-Abonnements
   res.type('application/json');
   fs.readFile(__dirname + '/subscriptions.json', 'utf8', (err, data) => {
     res.send(data);
